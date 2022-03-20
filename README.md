@@ -14,7 +14,7 @@ The queries developed will help identify major factors within the emmployee data
 
 From the queries we can determine the following :- 
 
-![Summary retiring](Pewlett-Hackard-Analysis/blob/main/Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Resources/Summary_retiring.PNG)
+![Summary retiring](Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Resources/Summary_retiring.PNG)
 
 
 ##https://github.com/JohnFortucci/Pewlett-Hackard-Analysis/blob/main/Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Resources/Summary_retiring.PNG
