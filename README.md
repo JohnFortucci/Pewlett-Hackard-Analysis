@@ -35,6 +35,6 @@ A further query was developed to list the total number of employees by departmen
 
 A further query was developed to summarize the above department and title results. Showing the summary impact by department.
 
-![Summary retiring](Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Resources/Dept_rep_summary_title.png)
+![Summary retiring](Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Resources/Dept_rep_summary.png)
 
 
