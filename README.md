@@ -12,31 +12,16 @@ The queries developed will help identify major factors within the emmployee data
 
 ## Query results analysis
 
-From the queries we can determine the following :- 
+Below is a summary of titles that are retiring :- 
 
 ![Summary retiring](Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Resources/Summary_retiring.PNG)
 
+From the above table we can determine :- 
 
-##https://github.com/JohnFortucci/Pewlett-Hackard-Analysis/blob/main/Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Resources/Summary_retiring.PNG
-
-###Pewlett-Hackard-Analysis/Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Resources/
-
-### 1. Total number retiring and current employees
-
-The total number of potential retiress is : 72458
-The total number of current employees     : 240124
-
-### 2. Percentage impact on organization
-
-Based on the number in item 1. above we can determine that the overall impact to the organization is approximately : 30%
-
-### 3. Mentorship eligibility
-
-The total number that qualify for mentorship eligibility : 1549
-
-### 4. Mentorship V Retirement Percentactage
-
-Based on the above data we can determine that the percentage eligible compared to the number retiring is approximately : 2%
+1) The total number of potential retiress is : 72458
+2) The total number of current employees is approximately 240000 , given that approximately 72500 are retiring this is a 30% impact on the organization
+3) The total number that qualify for mentorship eligibility : 1549
+4) Based on the above data we can determine that the percentage eligible compared to the number retiring is approximately : 2%
 
 ## Summary
 
