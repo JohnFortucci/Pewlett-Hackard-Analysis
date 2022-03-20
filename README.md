@@ -28,3 +28,5 @@ From the above table we can determine :-
 Based on the queries and the above key points it can be determined that the total number of position that needs filled would be approximately 72000 , this is approximately a 30% impact on the organization.
 
 Based on the above there are approximately 1500 eligible for the mentorship program , and is only approximately 2% of the number retiring , this indicates that there is not sufficient eligible for the mentorship program to to mentor the next generation of Pewlett-Hackard employees.
+
+![Summary retiring](Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Resources/Dep_summary_title.png)
