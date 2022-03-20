@@ -37,4 +37,4 @@ A further query was developed to summarize the above department and title result
 
 ![Summary retiring](Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Resources/Dept_rep_summary.png)
 
-
+The above queries , display the impact by department and title , and support the conclusion that the overall impact to the entire organaization is approximately 30%.
