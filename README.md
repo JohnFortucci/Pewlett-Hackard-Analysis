@@ -14,7 +14,9 @@ The queries developed will help identify major factors within the emmployee data
 
 From the queries we can determine the following :- 
 
-![Summary retiring](/Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Resources/Summary_retiring.PNG)
+![Summary retiring](/Pewlett-Hackard-Analysis/Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Resources/Summary_retiring.PNG)
+
+###Pewlett-Hackard-Analysis/Analysis Project Folder/Pewlett-Hackard-Analysis Folder/Resources/
 
 ### 1. Total number retiring and current employees
 
