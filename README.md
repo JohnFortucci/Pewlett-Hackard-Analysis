@@ -29,4 +29,6 @@ Based on the queries and the above key points it can be determined that the tota
 
 Based on the above there are approximately 1500 eligible for the mentorship program , and is only approximately 2% of the number retiring , this indicates that there is not sufficient eligible for the mentorship program to to mentor the next generation of Pewlett-Hackard employees.
 
+A further query was developed to list the total number of employees by department and title and includes a breakdown of the total retiring employees by department and title and calculates the impact on each department and title. The results of the query are below.
+
 ![Summary retiring](Analysis%20Project%20Folder/Pewlett-Hackard-Analysis%20Folder/Resources/Dep_summary_title.png)
