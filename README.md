@@ -14,6 +14,8 @@ The queries developed will help identify major factors within the emmployee data
 
 From the queries we can determine the following :- 
 
+![Summary retiring](/resources/UI_Comparison.PNG)
+
 ### 1. Total number retiring and current employees
 
 The total number of potential retiress is : 72458
